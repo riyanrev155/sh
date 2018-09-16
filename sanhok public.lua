@@ -1,0 +1,1 @@
+gg.alert("Script ini sudah tidak bisa digunakan\n\nSaya sudah menggantinya dengan V2")
