@@ -1,0 +1,1 @@
+gg.alert("😕 Sorry You Cannot use RevzProject Now\n\n\nI will Be MAINTENANCE\n\nFOR MAKE SAFE FEATURE")
